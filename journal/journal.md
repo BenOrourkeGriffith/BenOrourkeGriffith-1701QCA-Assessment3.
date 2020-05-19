@@ -90,9 +90,8 @@ Similar to concept 1 the goal of this game is reach the end of a track. Dependin
 ### Final design concept ###
 My Final design was a ball maze game where the goal is to reach two goals back and forth scoring points while under a 1 min timelimit. Changes were made from the prototype which aloud me to execute the project better. The Display will make a noice and point to the goal. When the goal is reached it will make another noise indicating the goal is reached and to move to the next one. WHen the time is up a X is displayed and the final score is shown. 
 ### Interaction flowchart ###
-<!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
 
-![Image](missingimage.png)
+![Image](f3.JPG)
 
 ## Process documentation ##
 
@@ -103,29 +102,32 @@ When designing my final project I took into consideration how I wanted my projec
 The maze was created out of cardboard, tape and aluminium foil as a conductor. The ball used was a ping-pong ball covered in foil so that it completes the circuit. I found while making the project that alligator clips were the easiest to use. I connect all the wires to the ground by connecting the ground to foil that all the other wires then connected to.
 
 ### process images and final image ###
-![Image](missingimage.png)
+![Image](f4.JPG)
 
-![Image](missingimage.png)
+![Image](f7.JPG)
 
-![Image](missingimage.png)
+![Image](f2.JPG)
 
-![Image](missingimage.png)
+![Image](f5.JPG)
 
-![Image](missingimage.png)
+![Image](f6.JPG)
 ## Final code ##
 
 ![Image](f1.JPG)
 
 ## Design process discussion ##
-<!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
+After completing my project i used advice from disscussion boards, my tut sessions and family who tested the device. I also used The Double Dimond design methodology.
+I used time we had in tut sessions to bounce ideas off people in order to create a better idea of what i wanted to make. 
+
+Using the Double Dimond method when talking to people in my tut  during the discover phase I found that my project should be able to entertain multiple people. The people I was talking to agreed with the idea. I then using the define phase decided that the goal of the project is to become a competitive game that can be used at parties and other events. For example, it can be used as a drinking game.
+I then researched ideas and methods of achieving this method and was inspired by my ball mazes and how I could incorporate that into a project that people can be entertained by.  I achieved the goal of my project and it functions properly. After completing the project I found that it did exactly as intended and was able to be played competitively. Final Project decisions
 
 
 ## Reflection ##
 
-<!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
+After completing my project I used advice from discussion boards, my tut sessions and family who tested the device. I also used The Double Dimond design methodology.
+I used the time we had in tut sessions to bounce ideas off people to create a better idea of what I wanted to make. 
 
-What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
+I found using code and methods from other projects greatly helped me when I was figuring out how to make my project work. For example, I took a lot of inspiration from the timing gates and closing a circuit to send a message to the bit. I found that doing this lead to a successful outcome. The novel part of my project is the maze. The maze does not add to the technology but instead makes a challenge for the user to overcome. If there was no maze the project would be a timing gate that keeps track of how many times the circuit has been made. 
 
-What parts of your project do you feel are novel? This is IMPORTANT to help justify a key component of the assessment rubric.
-
-What might be an interesting extension of this project? In what other contexts might this project be used? --->
+An extension of the project could be used for animal memory testing. For example, a bug or mouse could be placed in the maze and a metal part attached to it. the animal would have to find its way to each goal with the offer of food t the end of each goal. the bit could then track how many times the goal is reached a certain time limit. 
