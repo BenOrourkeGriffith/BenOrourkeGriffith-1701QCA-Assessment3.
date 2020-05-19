@@ -91,7 +91,7 @@ Similar to concept 1 the goal of this game is reach the end of a track. Dependin
 My Final design was a ball maze game where the goal is to reach two goals back and forth scoring points while under a 1 min timelimit. Changes were made from the prototype which aloud me to execute the project better. The Display will make a noice and point to the goal. When the goal is reached it will make another noise indicating the goal is reached and to move to the next one. WHen the time is up a X is displayed and the final score is shown. 
 ### Interaction flowchart ###
 
-![Image](f3.JPG)
+![Image](f3.jpg)
 
 ## Process documentation ##
 
@@ -102,15 +102,15 @@ When designing my final project I took into consideration how I wanted my projec
 The maze was created out of cardboard, tape and aluminium foil as a conductor. The ball used was a ping-pong ball covered in foil so that it completes the circuit. I found while making the project that alligator clips were the easiest to use. I connect all the wires to the ground by connecting the ground to foil that all the other wires then connected to.
 
 ### process images and final image ###
-![Image](f4.JPG)
+![Image](f4.jpg)
 
-![Image](f7.JPG)
+![Image](f7.jpg)
 
-![Image](f2.JPG)
+![Image](f2.jpg)
 
-![Image](f5.JPG)
+![Image](f5.jpg)
 
-![Image](f6.JPG)
+![Image](f6.jpg)
 ## Final code ##
 
 ![Image](f1.JPG)
